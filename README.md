@@ -10,6 +10,6 @@ Computech is an E-commerce Website built using ReactJs.
 * Users can pay using payment gateway.(Stripe).
 
 # Technologies Used
-* ** React.js**: JavaScript library for building user interfaces.
+* ** React.js** : JavaScript library for building user interfaces.
 
 
