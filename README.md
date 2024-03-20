@@ -1,6 +1,7 @@
 # Computech
 Computech is an E-commerce Website built using ReactJs.
 
+![WhatsApp Image 2024-03-20 at 18 10 36](https://github.com/omkarwaghmode/Computech/assets/125196508/267ddcb4-720c-42f6-95ef-6fa34668eb2d)
 
 
 # Overview
